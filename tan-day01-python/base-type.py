@@ -22,7 +22,7 @@ def sub(aint, bint):
 
 
 
-#声明一个float 方法
+#声明一个float  方法
 def float_demo():
     #声明afloat变量，并赋值1.8
     afloat = 1.8
